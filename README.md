@@ -2,6 +2,8 @@
 
 **Crawlia** est une application web simple pour analyser la performance des pages web. Elle mesure le temps jusqu'au premier octet (TTFB), vérifie les attributs SEO, détecte les liens morts et vérifie la validité des certificats SSL. L'application affiche un loader pendant le traitement des données.
 
+![alt text](image.png)
+
 ## Prérequis
 
 - Node.js (version 14 ou supérieure)
